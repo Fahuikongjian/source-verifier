@@ -1,0 +1,5 @@
+interface:
+  display_name: "Source Verifier"
+  short_description: "Verify web sources before using their claims"
+  default_prompt: "Use $source-verifier to research this topic with reliable, authoritative sources."
+
